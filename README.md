@@ -5,7 +5,7 @@
 This is a simple hotel search app that allows users to search for hotels in a given country.
 # Hosted Link:
 
-
+https://hackerbubai007.github.io/Project_Hotel.js/index.html
 
 ## Getting Started
 
